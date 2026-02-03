@@ -1,0 +1,10 @@
+# Rapports générés
+dns_check_*.txt
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Configurations locales
+config.local
